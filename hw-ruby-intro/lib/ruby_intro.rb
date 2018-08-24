@@ -3,7 +3,21 @@
 # Part 1
 
 def sum arr
-  # YOUR CODE HERE
+  # YOUR CODE HERE rspec spec/part1_spec.rb:5
+  array_sum = 0
+  
+  for i in arr do
+  
+    array_sum += x
+  
+  end
+  
+  #return not neccesary
+   array_sum
+  
+
+  #arr.each
+  #arr.inject(0) {|sum,n| sum + n}
 end
 
 def max_2_sum arr
